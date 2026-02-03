@@ -1,3 +1,3 @@
 # lojavirtual
 
-texto alterado (2)
+texto alterado de novo, para resolver uma pipa (2)
